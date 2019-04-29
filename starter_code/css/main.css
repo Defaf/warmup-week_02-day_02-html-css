@@ -1,0 +1,102 @@
+body{
+    border-top: 10px solid black ;
+    border-bottom: 10px solid black ;
+    font-family: sans-serif;
+}
+
+.nav-part{
+    text-align: center;
+    margin-top: 40px; 
+    font-size: 30px;
+}
+
+.nav-part strong{
+    font-style: italic
+}
+.nav-part a{
+    color:black;
+}
+main{
+    height: 400%;
+    width: 80%;
+    margin: 0 auto;
+}
+main img{
+    float: right;
+    height: 20%;
+    width: 20%;
+    margin: 0 auto;
+    border : 2px  solid gray;
+    padding:  5px;
+    margin-top: 55px;
+}
+
+main h3{
+    font-size: 35px;
+}
+
+main p{
+    margin-bottom: 80px;
+    font-size: 28px;
+}
+main nav{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    
+}
+main a{
+    color: black;
+}
+
+section{
+    height: 400%;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+section ul{
+    list-style-type: square;
+}
+section li{
+    margin-top: 30px;
+}
+section li strong{
+    font-style: italic;
+}
+section li span{
+    font-size: 13px;
+}
+section p{
+    font-size: 18px;
+    margin-top: 3px;
+}
+section img{
+    float: center;
+    height: 80%;
+    width: 60%;
+    border : 2px  solid black;
+    padding:  5px;
+}
+
+section nav{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+section a{
+    color: black;
+}
+.margin li{
+    margin-top: 3px;
+}
+.experienceP{
+    font-size: 20px;
+}
+.experienceP strong {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

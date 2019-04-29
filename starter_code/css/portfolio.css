@@ -1,0 +1,20 @@
+body{
+    border-top: 10px solid black ;
+    border-bottom: 10px solid black ;
+    font-family: sans-serif;
+}
+.nav-part{
+    text-align: center;
+    margin-top: 40px; 
+    font-size: 30px;
+}
+
+.nav-part strong{
+    font-style: italic
+}
+.nav-part a{
+    color:black;
+}
+
+
+
